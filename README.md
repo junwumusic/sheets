@@ -23,6 +23,11 @@
 21. [Dvorak New World Symphony but the world is crazy](21.%20not_jaws)
 22. [Boccherini Minuet but I'm a lowly peasant](22.%20bocherini_minuet)
 23. [Rachmaninoff Piano Concerto No. 2 but I got pranked](23.%20rach_2)
+24. [Moonlight Sonata but the moon has disappeared](24.%20moonlight_sonata)
+25. [Clair de Lune but i can't see the moon](25.%20clair_de_lune)
+26. [Hallelujah Chorus but we didn't rehearse](26.%20hallelujah)
+27. [Overture to Marriage of Figaro but the marriage got cancelled](27.%20figaro)
+28. [Mozart Sonata in C major but i didnt practice](28.%20sonata_in_c)
 
 -----
-*Last edited: 06-08-2022*
+*Last edited: 27-08-2022*
