@@ -28,6 +28,14 @@
 26. [Hallelujah Chorus but we didn't rehearse](26.%20hallelujah)
 27. [Overture to Marriage of Figaro but the marriage got cancelled](27.%20figaro)
 28. [Mozart Sonata in C major but i didnt practice](28.%20sonata_in_c)
+29. [Liszt Dream of Love (Liebestraum) but we're just friends](29.%20liebestraum2)
+30. [Waltz of the Flowers but i hate flowers](30.%20waltz_of_the_flowers)
+31. [Eine kleine Nachtmusik but i got distracted](31.%20eine_kleine)
+32. [Fur Elise (again) but elise still said no](32.%20fur_elise_2)
+33. [Chopin Nocturne but i got bored](33.%20nocturne)
+34. [Beethoven Virus but i got covid](34.%20beethoven_virus)
+35. [In the Hall of the Mountain King but i got bored](35.%20in_the_hall)
+36. [Can Can but i cannot](36.%20can_can)
 
 -----
-*Last edited: 27-08-2022*
+*Last edited: 17-11-2022*
