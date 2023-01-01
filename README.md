@@ -36,6 +36,12 @@
 34. [Beethoven Virus but i got covid](34.%20beethoven_virus)
 35. [In the Hall of the Mountain King but i got bored](35.%20in_the_hall)
 36. [Can Can but i cannot](36.%20can_can)
+37. [Chopin Fantaisie Impromptu but i got bored](37.%20fantaisie_impromptu)
+38. [Hungarian Rhapsody No. 2 but i got bored](38.%20hungarian_rhapsody)
+39. [Vivaldi Winter but my fingers are frozen](39.%20winter)
+40. [Silent Night but it's noisy](40.%20silent_night)
+41. [we wish you a dramatic christmas](41.%20we_wish_you)
+42. [Radetzky March but the orchestra is on vacation](42.%20radetsky)
 
 -----
-*Last edited: 17-11-2022*
+*Last updated: 01-01-2023*
